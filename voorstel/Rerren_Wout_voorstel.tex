@@ -1,0 +1,95 @@
+%==============================================================================
+% Sjabloon onderzoeksvoorstel bachelorproef
+%==============================================================================
+% Gebaseerd op LaTeX-sjabloon ‘Stylish Article’ (zie voorstel.cls)
+% Auteur: Jens Buysse, Bert Van Vreckem
+%
+% Compileren in TeXstudio:
+%
+% - Zorg dat Biber de bibliografie compileert (en niet Biblatex)
+%   Options > Configure > Build > Default Bibliography Tool: "txs:///biber"
+% - F5 om te compileren en het resultaat te bekijken.
+% - Als de bibliografie niet zichtbaar is, probeer dan F5 - F8 - F5
+%   Met F8 compileer je de bibliografie apart.
+%
+% Als je JabRef gebruikt voor het bijhouden van de bibliografie, zorg dan
+% dat je in ``biblatex''-modus opslaat: File > Switch to BibLaTeX mode.
+
+\documentclass{voorstel}
+
+\usepackage{lipsum}
+
+%------------------------------------------------------------------------------
+% Metadata over het voorstel
+%------------------------------------------------------------------------------
+
+%---------- Titel & auteur ----------------------------------------------------
+
+% TODO: geef werktitel van je eigen voorstel op
+\PaperTitle{De selectie van het juiste Content Management Systeem in verschillende scenario's}
+\PaperType{Onderzoeksvoorstel Bachelorproef 2018-2019} % Type document
+
+% TODO: vul je eigen naam in als auteur, geef ook je emailadres mee!
+\Authors{Wout Rerren\textsuperscript{1}} % Authors
+\CoPromotor{Wim De Bruyn\textsuperscript{2} (Hogeschool Gent)}
+\affiliation{\textbf{Contact:}
+  \textsuperscript{1} \href{mailto:wout.rerren.w1125@student.hogent.be}{wout.rerren.w1125@student.hogent.be};
+  \textsuperscript{2} \href{mailto:Wim.DeBruyn@hogent.be}{Wim.DeBruyn@hogent.be};
+}
+
+%---------- Abstract ----------------------------------------------------------
+
+\Abstract{Vandaag de dag worden content management systemen meer en meer gebruikt en zijn ze bezig met een forse opmars de voorbije jaren. Door deze opmars zijn er veel content management systemen ontstaan. Hierdoor is het onduidelijk geworden welk systeem nu de beste optie is voor welk scenario. In dit onderzoek zullen er vergelijkingen gemaakt worden tussen enkele content management systemen(Wordpress,Joomla,Drupal) in verschillende scenario's. Deze vergelijkingen zullen gebaseerd zijn op verschillende factoren die van belang zijn tijdens het ontwikkelen en publiceren van een website. De grootte van het project en de technische achtergrond van de gebruiker wordt in dit onderzoek niet in de achting genomen. De veronderstelling is dat Wordpress de "grote winnaar" zal zijn.
+}
+
+%---------- Onderzoeksdomein en sleutelwoorden --------------------------------
+% TODO: Sleutelwoorden:
+%
+% Het eerste sleutelwoord beschrijft het onderzoeksdomein. Je kan kiezen uit
+% deze lijst:
+%
+% - Mobiele applicatieontwikkeling
+% - Webapplicatieontwikkeling
+% - Applicatieontwikkeling (andere)
+% - Systeembeheer
+% - Netwerkbeheer
+% - Mainframe
+% - E-business
+% - Databanken en big data
+% - Machineleertechnieken en kunstmatige intelligentie
+% - Andere (specifieer)
+%
+% De andere sleutelwoorden zijn vrij te kiezen
+
+\Keywords{E-Business.  Content Management Systeem --- E-commerce --- Wordpress --- Joomla --- Drupal} % Keywords
+\newcommand{\keywordname}{Sleutelwoorden} % Defines the keywords heading name
+
+%---------- Titel, inhoud -----------------------------------------------------
+
+\begin{document}
+
+\flushbottom % Makes all text pages the same height
+\maketitle % Print the title and abstract box
+\tableofcontents % Print the contents section
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%------------------------------------------------------------------------------
+% Hoofdtekst
+%------------------------------------------------------------------------------
+
+% De hoofdtekst van het voorstel zit in een apart bestand, zodat het makkelijk
+% kan opgenomen worden in de bijlagen van de bachelorproef zelf.
+\input{voorstel-inhoud}
+
+%------------------------------------------------------------------------------
+% Referentielijst
+%------------------------------------------------------------------------------
+% TODO: de gerefereerde werken moeten in BibTeX-bestand ``voorstel.bib''
+% voorkomen. Gebruik JabRef om je bibliografie bij te houden en vergeet niet
+% om compatibiliteit met Biber/BibLaTeX aan te zetten (File > Switch to
+% BibLaTeX mode)
+
+\phantomsection
+\printbibliography[heading=bibintoc]
+
+\end{document}

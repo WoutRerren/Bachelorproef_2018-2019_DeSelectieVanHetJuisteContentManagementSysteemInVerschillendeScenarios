@@ -1,0 +1,147 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {dutch}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Inleiding}{13}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Stand van zaken}{13}{section.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Onderzoeksvraag}{14}{section.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{15}{section.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{15}{section.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Stand van zaken}{17}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}E-Commerce}{17}{section.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}WooCommerce}{17}{subsection.2.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Drupal Commerce}{18}{subsection.2.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}VirtueMart}{18}{subsection.2.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Content Management Systemen}{18}{section.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Wordpress}{19}{subsection.2.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Drupal}{19}{subsection.2.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Joomla}{19}{subsection.2.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Methodologie}{21}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}De algemene vergelijking tussen Wordpress, Joomla en Drupal }{21}{section.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}De intu\IeC {\"\i }tiviteit van de backoffice}{21}{subsection.3.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Wordpress}{21}{section*.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Joomla}{22}{section*.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal}{23}{section*.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Customization van het Content Management Systeem}{23}{subsection.3.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{WordPress}{24}{section*.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Joomla}{25}{section*.9}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal}{26}{section*.10}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}Support en Community van het Content Management Systeem}{26}{subsection.3.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Wordpress}{26}{section*.11}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Joomla}{27}{section*.12}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal}{27}{section*.13}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.4}Onderhoudbaarheid van het Content Management Systeem}{29}{subsection.3.1.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Wordpress}{29}{section*.14}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Joomla}{29}{section*.15}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal}{30}{section*.16}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.5}Governance van het Content Management Systeem}{31}{subsection.3.1.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Wordpress}{31}{section*.17}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Joomla}{32}{section*.18}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal}{32}{section*.19}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.6}Performance van het Content Management Systeem}{33}{subsection.3.1.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Wordpress}{33}{section*.20}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Joomla}{34}{section*.21}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal}{35}{section*.22}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.7}Integratie van het Content Management Systeem}{36}{subsection.3.1.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Wordpress}{36}{section*.23}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Joomla}{36}{section*.24}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal}{36}{section*.25}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.8}SEO van het Content Management Systeem}{37}{subsection.3.1.8}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Wordpress}{37}{section*.26}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Joomla}{38}{section*.27}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal}{39}{section*.28}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Vergelijking WooCommerce, VirtueMart en Drupal Commerce }{39}{section.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Intu\IeC {\"\i }tiviteit van de e-commerce oplossing}{39}{subsection.3.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{WooCommerce}{39}{section*.29}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal Commerce}{40}{section*.30}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Support van de e-commerce oplossing}{40}{subsection.3.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{WooCommerce}{40}{section*.31}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal Commerce}{40}{section*.32}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}All-in-one functionaliteit van de e-commerce oplossing}{41}{subsection.3.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{WooCommerce}{41}{section*.33}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal Commerce}{41}{section*.34}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.4}Governance van de e-commerce oplossing}{42}{subsection.3.2.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{WooCommerce}{42}{section*.35}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal Commerce}{42}{section*.36}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.5}SEO van de e-commerce oplossing}{43}{subsection.3.2.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{WooCommerce}{43}{section*.37}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Drupal Commerce}{43}{section*.38}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Conclusie}{45}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{47}{appendix.A}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Introductie}{47}{section.A.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}State-of-the-art}{48}{section.A.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Methodologie}{48}{section.A.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{49}{section.A.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{50}{section.A.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografie}{51}{appendix*.39}% 
+\contentsfinish 

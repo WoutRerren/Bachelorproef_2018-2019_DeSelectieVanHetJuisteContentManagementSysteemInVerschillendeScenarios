@@ -1,0 +1,56 @@
+%%=============================================================================
+%% Inleiding
+%%=============================================================================
+
+\chapter{\IfLanguageName{dutch}{Inleiding}{Introduction}}
+\label{ch:inleiding}
+
+In de inleiding zal er een introductie volgen tot enkele belangrijke termen die meermaals zullen terugkeren in het onderzoek. Hier zal er ook een korte geschiedenis meegegeven worden over de content management systemen dat gekozen werden voor het onderzoeken. Na dit hoofdstuk zal het duidelijk zijn waarom deze studie van belang is en voor wie deze bedoeld is.
+\section{\IfLanguageName{dutch}{Stand van zaken}{State of the art}}
+\label{sec:probleemstelling}
+Content management systemen bestaan al sinds het begin van de jaren 2000, deze systemen zijn dus geen overnight sensation en bestaan al meer dan 10 jaar. Natuurlijk zijn er in die tijd al meerdere onderzoeken gevoerd hiernaar. Dit zijn ver uiteenlopende onderzoeken van algemene vergelijking tussen de content management systemen tot de security van de third party plugins. 
+
+In het artikel van \textcite{Patel2011} wordt er een algemene vergelijking gemaakt tussen Joomla, Wordpress en Drupal. Door het populair gegeven dat content management systemen nu eenmaal zijn, is er zoveel keuze uit zoveel verschillende content management systemen.
+\textcite{Patel2011} kozen hun content management systemen aan de hand van drie factoren, namelijk populariteit, documentatie en Google page rank (Google page rank bepaalt hoe belangrijk een webpagina is, het is een van de factoren die bepaalt welke webpagina's weergegeven worden in de Search Engine Results).Uit de bijgeplaatste grafiek in het artikel kan men duidelijk afleiden dat Joomla, Wordpress en Drupal steeds de top 3 vormen, vandaar de keuze voor deze systemen.
+
+Vervolgens hebben ze deze 3 systemen onderling vergeleken op basis van volgende factoren: 3 verschillende populariteit vergelijkingen(aantal keer gezocht in Google, voorkeur CMS door de gebruiker, \% van populairste websites dat bepaald CMS draaien), gemiddelde kosten vergelijking, features vergelijking, Social bookmarking vergelijking. \textcite{Patel2011} concluderen en suggereren volgende zaken uit hun onderzoek: een klein bedrijf zonder complexe requirements gaat beter voor Joomla omwille van de lage kosten in vergelijking met de andere, als je een complexere, meertalige webshop nodig hebt kies je beter voor Drupal, Wordpress plaatsen ze tussen Joomla en Drupal door de vele veranderingen de voorbije jaren.
+
+Het onderzoek van \textcite{Patel2011} is ondertussen 7 jaar geleden, nu zal men in deze studie trachten te achterhalen wat de evolutie van deze content management systemen was de voorbije jaren. Klopt het nog steeds dat Joomla de betere keuze is voor een kleine, niet complexe website? Is Drupal nog steeds de beste optie voor een meertalige, complexe webshop? Bevindt Wordpress zich nog altijd tussen Joomla of Drupal? In de conclusie van dit onderzoek zal dit zeker vermeld worden. Dit onderzoek onderscheidt zich van \textcite{Patel2011} hun onderzoek door andere succesfactoren te gebruiken en het effectief opzetten van een testomgeving met de gekozen content management systemen
+
+In de conclusie van de scriptie van \textcite{Crombrugge2015} kan men vervolgens het antwoord lezen op zijn onderzoeksvraag: "“Ja”, Drupal is geschikt in combinatie met e-commerce, het is zelfs één van de beste e-commerce oplossingen, rekeninghoudend met het juiste type project." \footnote{Quote van Koen van Crombrugge}\parencite{Crombrugge2015} Met dit in gedacht zal men in dit onderzoek trachtte te achterhalen of Joomla en Wordpress hier ook bij horen alsook zal men dan kijken of dat Drupal de beste is of niet. Het grote verschil ook met het onderzoek van \textcite{Crombrugge2015} is dat er in dit onderzoek een testomgeving zal  opgezet worden waar men de e-commerce extensies zal uittesten.
+
+\section{\IfLanguageName{dutch}{Onderzoeksvraag}{Research question}}
+\label{sec:onderzoeksvraag}
+
+Zoals je hier boven al kon lezen blijkt uit onderzoek dat 54\% van de websites die online staan een content management systeem draait. Dit zal in de toekomst enkel maar toenemen. De oorspronkelijke functie van een content management systeem was het beheer van content vergemakkelijken, maar is zodanig geëvolueerd dat mensen zonder enige vorm van technische kennis nu ook volledig hun eigen website hiermee kunnen bouwen.Vaak zullen deze mensen niet weten met welke CMS ze nu juist het best zouden werken. In dit onderzoek zal men door het beantwoorden van volgende onderzoeksvragen deze mensen te helpen in hun keuze:
+\begin{itemize}
+	\item Drupal,Joomla en Wordpress: welk systeem is de beste optie voor het uitbouwen van een website voor een niet-technisch persoon?
+	\item Drupal,Joomla en Wordpress: welk systeem is de beste optie voor het uitbouwen van een webshop voor een niet-technisch persoon?
+\end{itemize}
+Bij deze onderzoeksvragen zullen nog enkele deels onderzoeksvragen horen namelijk (met project wordt er respectievelijk website en website bedoelt):
+\begin{itemize}
+    \item Hoe zit de toekomst er uit voor jouw project?
+    \item De snelheid waarmee dat het project moet uitgewerkt worden?
+\end{itemize}
+
+\section{\IfLanguageName{dutch}{Onderzoeksdoelstelling}{Research objective}}
+\label{sec:onderzoeksdoelstelling}
+
+Uit het onderzoek verwacht men een algemeen antwoord, hiermee bedoelt men dat er niet echt een eenduidig antwoord voor de onderzoeksvragen bestaat. Al verwacht men wel dat Drupal het betere systeem is, indien ze bereid zijn om de leercurve te overbruggen. Voor kleinere tot middelgrote projecten zal het beter zijn om te werken met Joomla en Wordpress, idem voor de e-commerce onderzoeksvraag. Voor grote en complexere projecten is het beter om met Drupal te werken, idem voor de e-commerce onderzoeksvraag. De onderzoeksvragen worden beantwoordt a.d.h.v. de vergelijking tussen enkele kritische meetpunten die uitgebreid in het hoofdstuk ~\ref{ch:methodologie} besproken worden. In dit onderzoek worden deze kritische meetpunten verder aangevuld met speciale inzichten, inzichten die men enkel kan verkrijgen door het effectief testen van deze meetpunten in een testomgeving.
+
+\section{\IfLanguageName{dutch}{Opzet van deze bachelorproef}{Structure of this bachelor thesis}}
+\label{sec:opzet-bachelorproef}
+
+% Het is gebruikelijk aan het einde van de inleiding een overzicht te
+% geven van de opbouw van de rest van de tekst. Deze sectie bevat al een aanzet
+% die je kan aanvullen/aanpassen in functie van je eigen tekst.
+
+De rest van deze bachelorproef is als volgt opgebouwd:
+
+In Hoofdstuk~\ref{ch:stand-van-zaken} wordt een overzicht gegeven van de stand van zaken binnen het onderzoeksdomein, op basis van een literatuurstudie.
+
+In Hoofdstuk~\ref{ch:methodologie} wordt de methodologie toegelicht en worden de gebruikte onderzoekstechnieken besproken om een antwoord te kunnen formuleren op de onderzoeksvragen.
+
+% TODO: Vul hier aan voor je eigen hoofstukken, één of twee zinnen per hoofdstuk
+
+In Hoofdstuk~\ref{ch:conclusie}, tenslotte, wordt de conclusie gegeven en een antwoord geformuleerd op de onderzoeksvragen. Daarbij wordt ook een aanzet gegeven voor toekomstig onderzoek binnen dit domein.

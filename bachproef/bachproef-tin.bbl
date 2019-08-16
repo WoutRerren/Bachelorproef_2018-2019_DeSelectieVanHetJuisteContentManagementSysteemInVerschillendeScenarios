@@ -1,0 +1,489 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Builtwith2018b}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a4fa2b26ae8a1f2ccf978391a99030bb}{%
+           family={Builtwith},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{fullhash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{bibnamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authorbibnamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authornamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authorfullhash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Drupal Commerce Usage Statistics}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://trends.builtwith.com/shop/Drupal-Commerce
+      \endverb
+      \verb{url}
+      \verb https://trends.builtwith.com/shop/Drupal-Commerce
+      \endverb
+    \endentry
+    \entry{Builtwith2018c}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a4fa2b26ae8a1f2ccf978391a99030bb}{%
+           family={Builtwith},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{fullhash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{bibnamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authorbibnamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authornamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authorfullhash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Virtuemart Usage Statistics}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://trends.builtwith.com/shop/VirtueMart
+      \endverb
+      \verb{url}
+      \verb https://trends.builtwith.com/shop/VirtueMart
+      \endverb
+    \endentry
+    \entry{Builtwith2018a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a4fa2b26ae8a1f2ccf978391a99030bb}{%
+           family={Builtwith},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{fullhash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{bibnamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authorbibnamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authornamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authorfullhash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{WooCommerce Usage Statistics}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://trends.builtwith.com/shop/WooCommerce
+      \endverb
+      \verb{url}
+      \verb https://trends.builtwith.com/shop/WooCommerce
+      \endverb
+    \endentry
+    \entry{BWPL2017}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8bda9d8a721df391756ce85adc88e70d}{%
+           family={{BuiltWith Pty Ltd}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{8bda9d8a721df391756ce85adc88e70d}
+      \strng{fullhash}{8bda9d8a721df391756ce85adc88e70d}
+      \strng{bibnamehash}{8bda9d8a721df391756ce85adc88e70d}
+      \strng{authorbibnamehash}{8bda9d8a721df391756ce85adc88e70d}
+      \strng{authornamehash}{8bda9d8a721df391756ce85adc88e70d}
+      \strng{authorfullhash}{8bda9d8a721df391756ce85adc88e70d}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CMS Usage Statistics}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://trends.builtwith.com/cms
+      \endverb
+      \verb{url}
+      \verb https://trends.builtwith.com/cms
+      \endverb
+    \endentry
+    \entry{BWPL2017a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8bda9d8a721df391756ce85adc88e70d}{%
+           family={{BuiltWith Pty Ltd}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{8bda9d8a721df391756ce85adc88e70d}
+      \strng{fullhash}{8bda9d8a721df391756ce85adc88e70d}
+      \strng{bibnamehash}{8bda9d8a721df391756ce85adc88e70d}
+      \strng{authorbibnamehash}{8bda9d8a721df391756ce85adc88e70d}
+      \strng{authornamehash}{8bda9d8a721df391756ce85adc88e70d}
+      \strng{authorfullhash}{8bda9d8a721df391756ce85adc88e70d}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ecommerce Usage Statistics}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://trends.builtwith.com/shop
+      \endverb
+      \verb{url}
+      \verb https://trends.builtwith.com/shop
+      \endverb
+    \endentry
+    \entry{Crowder2009}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=b799aa2e9d678cc0fc3da852072c643e}{%
+           family={Crowder},
+           familyi={C\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3f0890b23970124134a56d0172d73644}{%
+           family={Severdia},
+           familyi={S\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0c57214936569bf5b560520005401be7}
+      \strng{fullhash}{0c57214936569bf5b560520005401be7}
+      \strng{bibnamehash}{0c57214936569bf5b560520005401be7}
+      \strng{authorbibnamehash}{0c57214936569bf5b560520005401be7}
+      \strng{authornamehash}{0c57214936569bf5b560520005401be7}
+      \strng{authorfullhash}{0c57214936569bf5b560520005401be7}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{A brief history of Joomla}
+      \field{title}{Using Joomla}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://www.oreilly.com/library/view/using-joomla/9781449377434/
+      \endverb
+      \verb{url}
+      \verb https://www.oreilly.com/library/view/using-joomla/9781449377434/
+      \endverb
+    \endentry
+    \entry{Drupal2018a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=ad65548aa58640efb5f1f4ace4bf8d32}{%
+           family={Drupal},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \strng{fullhash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \strng{bibnamehash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \strng{authorbibnamehash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \strng{authornamehash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \strng{authorfullhash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Commerce}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.drupal.org/project/commerce
+      \endverb
+      \verb{url}
+      \verb https://www.drupal.org/project/commerce
+      \endverb
+    \endentry
+    \entry{Drupal2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=ad65548aa58640efb5f1f4ace4bf8d32}{%
+           family={Drupal},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \strng{fullhash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \strng{bibnamehash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \strng{authorbibnamehash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \strng{authornamehash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \strng{authorfullhash}{ad65548aa58640efb5f1f4ace4bf8d32}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Our history}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.drupal.org/about/history
+      \endverb
+      \verb{url}
+      \verb https://www.drupal.org/about/history
+      \endverb
+    \endentry
+    \entry{forresult2014}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=046d43fbf45f133cef5252146ca4eefe}{%
+           family={forresult},
+           familyi={f\bibinitperiod}}}%
+      }
+      \strng{namehash}{046d43fbf45f133cef5252146ca4eefe}
+      \strng{fullhash}{046d43fbf45f133cef5252146ca4eefe}
+      \strng{bibnamehash}{046d43fbf45f133cef5252146ca4eefe}
+      \strng{authorbibnamehash}{046d43fbf45f133cef5252146ca4eefe}
+      \strng{authornamehash}{046d43fbf45f133cef5252146ca4eefe}
+      \strng{authorfullhash}{046d43fbf45f133cef5252146ca4eefe}
+      \field{sortinit}{f}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wat is een CMS?}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://www.forresult.nl/i/wat-is-een-cms
+      \endverb
+      \verb{url}
+      \verb https://www.forresult.nl/i/wat-is-een-cms
+      \endverb
+    \endentry
+    \entry{MarketingTermen2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d6ccd48faf2aa55b6d0da39d9b135de1}{%
+           family={MarketingTermen},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6ccd48faf2aa55b6d0da39d9b135de1}
+      \strng{fullhash}{d6ccd48faf2aa55b6d0da39d9b135de1}
+      \strng{bibnamehash}{d6ccd48faf2aa55b6d0da39d9b135de1}
+      \strng{authorbibnamehash}{d6ccd48faf2aa55b6d0da39d9b135de1}
+      \strng{authornamehash}{d6ccd48faf2aa55b6d0da39d9b135de1}
+      \strng{authorfullhash}{d6ccd48faf2aa55b6d0da39d9b135de1}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{E-commerce}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://Marketingtermen.nl/begrip/e-commerce
+      \endverb
+      \verb{url}
+      \verb https://Marketingtermen.nl/begrip/e-commerce
+      \endverb
+    \endentry
+    \entry{Patel2011}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=b47262158b27055e25a82ad1a51e491d}{%
+           family={Patel},
+           familyi={P\bibinitperiod},
+           given={Savan\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a1b579e375b429cfcb90c2bd2132f3be}{%
+           family={Rathod},
+           familyi={R\bibinitperiod},
+           given={R.V.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=485b900c454ed5ee6ae28e5bfc2076e6}{%
+           family={Prajapati},
+           familyi={P\bibinitperiod},
+           given={B.\bibnamedelimi Jingna},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7b3be326f4d105ae1485de05d8d487b8}
+      \strng{fullhash}{c032b5825940d23bfdb4319d45c40279}
+      \strng{bibnamehash}{c032b5825940d23bfdb4319d45c40279}
+      \strng{authorbibnamehash}{c032b5825940d23bfdb4319d45c40279}
+      \strng{authornamehash}{7b3be326f4d105ae1485de05d8d487b8}
+      \strng{authorfullhash}{c032b5825940d23bfdb4319d45c40279}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Applications}
+      \field{title}{Performance Analysis of Content Management Systems - Joomla, Drupal and WordPress}
+      \field{year}{2011}
+    \endentry
+    \entry{Postma2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=736a6b8efdddb61f6ae7aaf5315e240e}{%
+           family={Postma},
+           familyi={P\bibinitperiod},
+           given={Wouter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=265ceaefc82833210e68b94898771e44}{%
+           family={WPLOUNGE},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{736a6b8efdddb61f6ae7aaf5315e240e}
+      \strng{fullhash}{736a6b8efdddb61f6ae7aaf5315e240e}
+      \strng{bibnamehash}{736a6b8efdddb61f6ae7aaf5315e240e}
+      \strng{authorbibnamehash}{736a6b8efdddb61f6ae7aaf5315e240e}
+      \strng{authornamehash}{736a6b8efdddb61f6ae7aaf5315e240e}
+      \strng{authorfullhash}{736a6b8efdddb61f6ae7aaf5315e240e}
+      \strng{editorbibnamehash}{265ceaefc82833210e68b94898771e44}
+      \strng{editornamehash}{265ceaefc82833210e68b94898771e44}
+      \strng{editorfullhash}{265ceaefc82833210e68b94898771e44}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wat is Wordpress?}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.wplounge.nl/wat-is-wordpress/
+      \endverb
+      \verb{url}
+      \verb https://www.wplounge.nl/wat-is-wordpress/
+      \endverb
+    \endentry
+    \entry{Crombrugge2015}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=03d879fd9a346d2f3de2477a4ce86e0b}{%
+           family={Crombrugge},
+           familyi={C\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Howest}%
+      }
+      \strng{namehash}{03d879fd9a346d2f3de2477a4ce86e0b}
+      \strng{fullhash}{03d879fd9a346d2f3de2477a4ce86e0b}
+      \strng{bibnamehash}{03d879fd9a346d2f3de2477a4ce86e0b}
+      \strng{authorbibnamehash}{03d879fd9a346d2f3de2477a4ce86e0b}
+      \strng{authornamehash}{03d879fd9a346d2f3de2477a4ce86e0b}
+      \strng{authorfullhash}{03d879fd9a346d2f3de2477a4ce86e0b}
+      \field{sortinit}{v}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Is Drupal de beste keuze voor een e-commerce webapplicatie?}
+      \field{year}{2015}
+      \verb{file}
+      \verb :C\:\\Users\\rerre\\OneDrive\\Documenten\\Schooljaar 2017- 2018\\BAP\\IS DRUPAL DE BESTE KEUZE VOOR EEN E-COMMERCE WEBAPPLICATIE.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Wordpress2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=dcec9b13c1de515016a3bc0f92cfa345}{%
+           family={Wordpress},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcec9b13c1de515016a3bc0f92cfa345}
+      \strng{fullhash}{dcec9b13c1de515016a3bc0f92cfa345}
+      \strng{bibnamehash}{dcec9b13c1de515016a3bc0f92cfa345}
+      \strng{authorbibnamehash}{dcec9b13c1de515016a3bc0f92cfa345}
+      \strng{authornamehash}{dcec9b13c1de515016a3bc0f92cfa345}
+      \strng{authorfullhash}{dcec9b13c1de515016a3bc0f92cfa345}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{WooCommerce advanced}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://en-gb.wordpress.org/plugins/woocommerce/advanced/
+      \endverb
+      \verb{url}
+      \verb https://en-gb.wordpress.org/plugins/woocommerce/advanced/
+      \endverb
+    \endentry
+    \entry{wphandleiding2015}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=8d46016e0df30fdc3f442239f02aeaa2}{%
+           family={wphandleiding},
+           familyi={w\bibinitperiod}}}%
+      }
+      \strng{namehash}{8d46016e0df30fdc3f442239f02aeaa2}
+      \strng{fullhash}{8d46016e0df30fdc3f442239f02aeaa2}
+      \strng{bibnamehash}{8d46016e0df30fdc3f442239f02aeaa2}
+      \strng{authorbibnamehash}{8d46016e0df30fdc3f442239f02aeaa2}
+      \strng{authornamehash}{8d46016e0df30fdc3f442239f02aeaa2}
+      \strng{authorfullhash}{8d46016e0df30fdc3f442239f02aeaa2}
+      \field{sortinit}{w}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wat is het wordpress CMS?}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://www.wphandleiding.nl/wordpress-kennisbank/wordpress-informatie/wat-een-content-management-systeem-cms/
+      \endverb
+      \verb{url}
+      \verb https://www.wphandleiding.nl/wordpress-kennisbank/wordpress-informatie/wat-een-content-management-systeem-cms/
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{w3techs2018}
+\endrefsection
+\endinput
+
