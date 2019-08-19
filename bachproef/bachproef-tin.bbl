@@ -48,7 +48,7 @@
       \verb https://trends.builtwith.com/shop/Drupal-Commerce
       \endverb
     \endentry
-    \entry{Builtwith2018c}{online}{}
+    \entry{Builtwith2018}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=a4fa2b26ae8a1f2ccf978391a99030bb}{%
            family={Builtwith},
@@ -64,6 +64,35 @@
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Usage of content management systems for websites}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://w3techs.com/technologies/overview/content_management/all
+      \endverb
+      \verb{url}
+      \verb https://w3techs.com/technologies/overview/content_management/all
+      \endverb
+    \endentry
+    \entry{Builtwith2018c}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a4fa2b26ae8a1f2ccf978391a99030bb}{%
+           family={Builtwith},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{fullhash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{bibnamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authorbibnamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authornamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \strng{authorfullhash}{a4fa2b26ae8a1f2ccf978391a99030bb}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -89,10 +118,10 @@
       \strng{authorbibnamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
       \strng{authornamehash}{a4fa2b26ae8a1f2ccf978391a99030bb}
       \strng{authorfullhash}{a4fa2b26ae8a1f2ccf978391a99030bb}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradate}{3}
+      \field{extradate}{4}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -288,6 +317,37 @@
       \verb https://www.forresult.nl/i/wat-is-een-cms
       \endverb
     \endentry
+    \entry{Isaksen2019}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=91412d3b82a8d9f2a0c1ec6b3e4ac39c}{%
+           family={Isaksen},
+           familyi={I\bibinitperiod},
+           given={Valérie},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{91412d3b82a8d9f2a0c1ec6b3e4ac39c}
+      \strng{fullhash}{91412d3b82a8d9f2a0c1ec6b3e4ac39c}
+      \strng{bibnamehash}{91412d3b82a8d9f2a0c1ec6b3e4ac39c}
+      \strng{authorbibnamehash}{91412d3b82a8d9f2a0c1ec6b3e4ac39c}
+      \strng{authornamehash}{91412d3b82a8d9f2a0c1ec6b3e4ac39c}
+      \strng{authorfullhash}{91412d3b82a8d9f2a0c1ec6b3e4ac39c}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SEO Optimization And Robots.Txt File}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.virtuemart.net/tutorials/tips/202-seo-optimization-and-robots-txt-file.html
+      \endverb
+      \verb{url}
+      \verb https://docs.virtuemart.net/tutorials/tips/202-seo-optimization-and-robots-txt-file.html
+      \endverb
+    \endentry
     \entry{MarketingTermen2018}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=d6ccd48faf2aa55b6d0da39d9b135de1}{%
@@ -393,6 +453,715 @@
       \verb https://www.wplounge.nl/wat-is-wordpress/
       \endverb
     \endentry
+    \entry{DrupalAssociation2015-2017a}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5a917b8a00ec3d050b3b8f197348c4b1}{%
+           family={{The Drupal Association}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a917b8a00ec3d050b3b8f197348c4b1}
+      \strng{fullhash}{5a917b8a00ec3d050b3b8f197348c4b1}
+      \strng{bibnamehash}{5a917b8a00ec3d050b3b8f197348c4b1}
+      \strng{authorbibnamehash}{5a917b8a00ec3d050b3b8f197348c4b1}
+      \strng{authornamehash}{5a917b8a00ec3d050b3b8f197348c4b1}
+      \strng{authorfullhash}{5a917b8a00ec3d050b3b8f197348c4b1}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Drupal 8 User Guide}
+      \field{title}{Chapter 13. Security and Maintenance}
+      \field{year}{2015-2017}
+      \field{pages}{193\bibrangedash 205}
+      \range{pages}{13}
+    \endentry
+    \entry{DrupalCommunity2017}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cbbaef6a5aa9f89e7f6cd2a4fe866921}{%
+           family={{The Drupal Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{fullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{bibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorbibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authornamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorfullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{7}
+      \field{title}{Blazy}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.drupal.org/docs/8/managing-site-performance-and-scalability/blazy
+      \endverb
+      \verb{url}
+      \verb https://www.drupal.org/docs/8/managing-site-performance-and-scalability/blazy
+      \endverb
+    \endentry
+    \entry{DrupalCommunity2018a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cbbaef6a5aa9f89e7f6cd2a4fe866921}{%
+           family={{The Drupal Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{fullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{bibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorbibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authornamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorfullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{14}
+      \field{month}{6}
+      \field{title}{Dynamic Page Cache overview}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.drupal.org/docs/8/core/modules/dynamic-page-cache/overview
+      \endverb
+      \verb{url}
+      \verb https://www.drupal.org/docs/8/core/modules/dynamic-page-cache/overview
+      \endverb
+    \endentry
+    \entry{DrupalCommunity2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cbbaef6a5aa9f89e7f6cd2a4fe866921}{%
+           family={{The Drupal Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{fullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{bibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorbibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authornamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorfullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{month}{1}
+      \field{title}{Introduction}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.drupal.org/docs/8/modules/drupal-remote-dashboard/introduction
+      \endverb
+      \verb{url}
+      \verb https://www.drupal.org/docs/8/modules/drupal-remote-dashboard/introduction
+      \endverb
+    \endentry
+    \entry{DrupalCommunity2018b}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cbbaef6a5aa9f89e7f6cd2a4fe866921}{%
+           family={{The Drupal Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{fullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{bibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorbibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authornamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorfullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \field{extraname}{4}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{26}
+      \field{month}{4}
+      \field{title}{RESTful Web Services module overview}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.drupal.org/docs/8/core/modules/rest/overview
+      \endverb
+      \verb{url}
+      \verb https://www.drupal.org/docs/8/core/modules/rest/overview
+      \endverb
+    \endentry
+    \entry{DrupalCommunity2019}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cbbaef6a5aa9f89e7f6cd2a4fe866921}{%
+           family={{The Drupal Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{fullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{bibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorbibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authornamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorfullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \field{extraname}{5}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{3}
+      \field{title}{CDN integration}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.drupal.org/docs/8/managing-site-performance-and-scalability/content-delivery-network-cdn#cdn-integration
+      \endverb
+      \verb{url}
+      \verb https://www.drupal.org/docs/8/managing-site-performance-and-scalability/content-delivery-network-cdn#cdn-integration
+      \endverb
+    \endentry
+    \entry{DrupalCommunity2019a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=cbbaef6a5aa9f89e7f6cd2a4fe866921}{%
+           family={{The Drupal Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{fullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{bibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorbibnamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authornamehash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \strng{authorfullhash}{cbbaef6a5aa9f89e7f6cd2a4fe866921}
+      \field{extraname}{6}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{17}
+      \field{month}{6}
+      \field{title}{Internal Page Cache}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.drupal.org/docs/8/administering-a-drupal-8-site/internal-page-cache
+      \endverb
+      \verb{url}
+      \verb https://www.drupal.org/docs/8/administering-a-drupal-8-site/internal-page-cache
+      \endverb
+    \endentry
+    \entry{JoomlaCommunity2019c}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5887a4a69d540af2e6af81672555a756}{%
+           family={{The Joomla Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{fullhash}{5887a4a69d540af2e6af81672555a756}
+      \strng{bibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorbibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authornamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorfullhash}{5887a4a69d540af2e6af81672555a756}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Access Control List Tutorial}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.joomla.org/J3.x:Access_Control_List_Tutorial
+      \endverb
+      \verb{url}
+      \verb https://docs.joomla.org/J3.x:Access_Control_List_Tutorial
+      \endverb
+    \endentry
+    \entry{JoomlaCommunity2019d}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5887a4a69d540af2e6af81672555a756}{%
+           family={{The Joomla Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{fullhash}{5887a4a69d540af2e6af81672555a756}
+      \strng{bibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorbibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authornamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorfullhash}{5887a4a69d540af2e6af81672555a756}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cache}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.joomla.org/Cache
+      \endverb
+      \verb{url}
+      \verb https://docs.joomla.org/Cache
+      \endverb
+    \endentry
+    \entry{JoomlaCommunity2019e}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5887a4a69d540af2e6af81672555a756}{%
+           family={{The Joomla Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{fullhash}{5887a4a69d540af2e6af81672555a756}
+      \strng{bibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorbibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authornamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorfullhash}{5887a4a69d540af2e6af81672555a756}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Robots.txt file}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.joomla.org/Robots.txt_file
+      \endverb
+      \verb{url}
+      \verb https://docs.joomla.org/Robots.txt_file
+      \endverb
+    \endentry
+    \entry{JoomlaCommunity2019g}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5887a4a69d540af2e6af81672555a756}{%
+           family={{The Joomla Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{fullhash}{5887a4a69d540af2e6af81672555a756}
+      \strng{bibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorbibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authornamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorfullhash}{5887a4a69d540af2e6af81672555a756}
+      \field{extraname}{4}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Search Engine Friendly URLs}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.joomla.org/Search_Engine_Friendly_URLs
+      \endverb
+      \verb{url}
+      \verb https://docs.joomla.org/Search_Engine_Friendly_URLs
+      \endverb
+    \endentry
+    \entry{JoomlaCommunity2019}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5887a4a69d540af2e6af81672555a756}{%
+           family={{The Joomla Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{fullhash}{5887a4a69d540af2e6af81672555a756}
+      \strng{bibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorbibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authornamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorfullhash}{5887a4a69d540af2e6af81672555a756}
+      \field{extraname}{5}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Updating from an existing version}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.joomla.org/J3.x:Updating_from_an_existing_version
+      \endverb
+      \verb{url}
+      \verb https://docs.joomla.org/J3.x:Updating_from_an_existing_version
+      \endverb
+    \endentry
+    \entry{JoomlaCommunity2019b}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5887a4a69d540af2e6af81672555a756}{%
+           family={{The Joomla Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{fullhash}{5887a4a69d540af2e6af81672555a756}
+      \strng{bibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorbibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authornamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorfullhash}{5887a4a69d540af2e6af81672555a756}
+      \field{extraname}{6}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Updating Joomla (Install Method)}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.joomla.org/J3.x:Updating_Joomla_(Install_Method)
+      \endverb
+      \verb{url}
+      \verb https://docs.joomla.org/J3.x:Updating_Joomla_(Install_Method)
+      \endverb
+    \endentry
+    \entry{JoomlaCommunity2019a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5887a4a69d540af2e6af81672555a756}{%
+           family={{The Joomla Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{fullhash}{5887a4a69d540af2e6af81672555a756}
+      \strng{bibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorbibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authornamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorfullhash}{5887a4a69d540af2e6af81672555a756}
+      \field{extraname}{7}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Updating Joomla (Update Method)}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.joomla.org/J3.x:Updating_Joomla_(Update_Method)
+      \endverb
+      \verb{url}
+      \verb https://docs.joomla.org/J3.x:Updating_Joomla_(Update_Method)
+      \endverb
+    \endentry
+    \entry{JoomlaCommunity2019h}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5887a4a69d540af2e6af81672555a756}{%
+           family={{The Joomla Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{fullhash}{5887a4a69d540af2e6af81672555a756}
+      \strng{bibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorbibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authornamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorfullhash}{5887a4a69d540af2e6af81672555a756}
+      \field{extraname}{8}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Using Keywords}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.joomla.org/Using_Keywords
+      \endverb
+      \verb{url}
+      \verb https://docs.joomla.org/Using_Keywords
+      \endverb
+    \endentry
+    \entry{JoomlaCommunity2019f}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5887a4a69d540af2e6af81672555a756}{%
+           family={{The Joomla Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{fullhash}{5887a4a69d540af2e6af81672555a756}
+      \strng{bibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorbibnamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authornamehash}{5887a4a69d540af2e6af81672555a756}
+      \strng{authorfullhash}{5887a4a69d540af2e6af81672555a756}
+      \field{extraname}{9}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Using The Meta Description}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.joomla.org/Using_The_Meta_Description
+      \endverb
+      \verb{url}
+      \verb https://docs.joomla.org/Using_The_Meta_Description
+      \endverb
+    \endentry
+    \entry{WordpressCommunity2019d}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=14bf07d2e942dae3bfac64397baa7336}{%
+           family={{The Wordpress Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{fullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{bibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorbibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authornamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorfullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Authentication}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/
+      \endverb
+      \verb{url}
+      \verb https://developer.wordpress.org/rest-api/using-the-rest-api/authentication/
+      \endverb
+    \endentry
+    \entry{WordpressCommunity2019h}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=14bf07d2e942dae3bfac64397baa7336}{%
+           family={{The Wordpress Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{fullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{bibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorbibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authornamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorfullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Custom Fields}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://wordpress.org/support/article/custom-fields/
+      \endverb
+      \verb{url}
+      \verb https://wordpress.org/support/article/custom-fields/
+      \endverb
+    \endentry
+    \entry{WordpressCommunity2019b}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=14bf07d2e942dae3bfac64397baa7336}{%
+           family={{The Wordpress Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{fullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{bibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorbibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authornamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorfullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optimization}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://wordpress.org/support/article/optimization/
+      \endverb
+      \verb{url}
+      \verb https://wordpress.org/support/article/optimization/
+      \endverb
+    \endentry
+    \entry{WordpressCommunity2019e}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=14bf07d2e942dae3bfac64397baa7336}{%
+           family={{The Wordpress Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{fullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{bibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorbibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authornamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorfullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \field{extraname}{4}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{pingbacks \& trackbacks}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://wordpress.org/support/article/introduction-to-blogging/#using-pingbacks-and-trackbacks
+      \endverb
+      \verb{url}
+      \verb https://wordpress.org/support/article/introduction-to-blogging/#using-pingbacks-and-trackbacks
+      \endverb
+    \endentry
+    \entry{WordpressCommunity2019}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=14bf07d2e942dae3bfac64397baa7336}{%
+           family={{The Wordpress Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{fullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{bibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorbibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authornamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorfullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \field{extraname}{5}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Roles and Capabilities}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://wordpress.org/support/article/roles-and-capabilities/
+      \endverb
+      \verb{url}
+      \verb https://wordpress.org/support/article/roles-and-capabilities/
+      \endverb
+    \endentry
+    \entry{WordpressCommunity2019g}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=14bf07d2e942dae3bfac64397baa7336}{%
+           family={{The Wordpress Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{fullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{bibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorbibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authornamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorfullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \field{extraname}{6}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Taxonomies}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://wordpress.org/support/article/taxonomies/
+      \endverb
+      \verb{url}
+      \verb https://wordpress.org/support/article/taxonomies/
+      \endverb
+    \endentry
+    \entry{WordpressCommunity2019a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=14bf07d2e942dae3bfac64397baa7336}{%
+           family={{The Wordpress Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{fullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{bibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorbibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authornamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorfullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \field{extraname}{7}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Updating Wordpress}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://wordpress.org/support/article/updating-wordpress/
+      \endverb
+      \verb{url}
+      \verb https://wordpress.org/support/article/updating-wordpress/
+      \endverb
+    \endentry
+    \entry{WordpressCommunity2019f}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=14bf07d2e942dae3bfac64397baa7336}{%
+           family={{The Wordpress Community}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{fullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{bibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorbibnamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authornamehash}{14bf07d2e942dae3bfac64397baa7336}
+      \strng{authorfullhash}{14bf07d2e942dae3bfac64397baa7336}
+      \field{extraname}{8}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradate}{8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Using Permalinks}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://wordpress.org/support/article/using-permalinks/
+      \endverb
+      \verb{url}
+      \verb https://wordpress.org/support/article/using-permalinks/
+      \endverb
+    \endentry
     \entry{Crombrugge2015}{thesis}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=03d879fd9a346d2f3de2477a4ce86e0b}{%
@@ -424,6 +1193,92 @@
       \field{year}{2015}
       \verb{file}
       \verb :C\:\\Users\\rerre\\OneDrive\\Documenten\\Schooljaar 2017- 2018\\BAP\\IS DRUPAL DE BESTE KEUZE VOOR EEN E-COMMERCE WEBAPPLICATIE.pdf:PDF
+      \endverb
+    \endentry
+    \entry{VirtueMart2019a}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=fc2b408c784538b3c1e7b6bb82d5e70d}{%
+           family={VirtueMart},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \strng{fullhash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \strng{bibnamehash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \strng{authorbibnamehash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \strng{authornamehash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \strng{authorfullhash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Administrative Access With ACL}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.virtuemart.net/manual/general-concepts/185-administrative-frontend-access-with-acl.html
+      \endverb
+      \verb{url}
+      \verb https://docs.virtuemart.net/manual/general-concepts/185-administrative-frontend-access-with-acl.html
+      \endverb
+    \endentry
+    \entry{VirtueMart2019}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=fc2b408c784538b3c1e7b6bb82d5e70d}{%
+           family={VirtueMart},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \strng{fullhash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \strng{bibnamehash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \strng{authorbibnamehash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \strng{authornamehash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \strng{authorfullhash}{fc2b408c784538b3c1e7b6bb82d5e70d}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Language Installation}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.virtuemart.net/virtuemart-1-documentation/8-installation/4-language-installation.html
+      \endverb
+      \verb{url}
+      \verb https://docs.virtuemart.net/virtuemart-1-documentation/8-installation/4-language-installation.html
+      \endverb
+    \endentry
+    \entry{WooCommerce2019}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b6bc1dc9269cb0b7db7cffd51cb6e2d5}{%
+           family={WooCommerce},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6bc1dc9269cb0b7db7cffd51cb6e2d5}
+      \strng{fullhash}{b6bc1dc9269cb0b7db7cffd51cb6e2d5}
+      \strng{bibnamehash}{b6bc1dc9269cb0b7db7cffd51cb6e2d5}
+      \strng{authorbibnamehash}{b6bc1dc9269cb0b7db7cffd51cb6e2d5}
+      \strng{authornamehash}{b6bc1dc9269cb0b7db7cffd51cb6e2d5}
+      \strng{authorfullhash}{b6bc1dc9269cb0b7db7cffd51cb6e2d5}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Translating WooCommerce (Localization)}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://docs.woocommerce.com/document/woocommerce-localization/
+      \endverb
+      \verb{url}
+      \verb https://docs.woocommerce.com/document/woocommerce-localization/
       \endverb
     \endentry
     \entry{Wordpress2018}{online}{}
@@ -483,7 +1338,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{w3techs2018}
 \endrefsection
 \endinput
 

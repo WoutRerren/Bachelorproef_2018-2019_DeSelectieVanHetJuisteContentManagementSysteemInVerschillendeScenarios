@@ -3,7 +3,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Inleiding}{13}{chapter.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Stand van zaken}{13}{section.1.1}% 
+\contentsline {section}{\numberline {1.1}Probleemstelling}{13}{section.1.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Onderzoeksvraag}{14}{section.1.2}% 
 \defcounter {refsection}{0}\relax 
@@ -47,13 +47,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Joomla}{25}{section*.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Drupal}{26}{section*.10}% 
+\contentsline {subsubsection}{Drupal}{25}{section*.10}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.3}Support en Community van het Content Management Systeem}{26}{subsection.3.1.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Wordpress}{26}{section*.11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Joomla}{27}{section*.12}% 
+\contentsline {subsubsection}{Joomla}{26}{section*.12}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Drupal}{27}{section*.13}% 
 \defcounter {refsection}{0}\relax 
@@ -73,55 +73,55 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Drupal}{33}{section*.19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.6}Performance van het Content Management Systeem}{34}{subsection.3.1.6}% 
+\contentsline {subsection}{\numberline {3.1.6}Performance van het Content Management Systeem}{33}{subsection.3.1.6}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Wordpress}{34}{section*.20}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Joomla}{35}{section*.21}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Drupal}{36}{section*.22}% 
+\contentsline {subsubsection}{Drupal}{35}{section*.22}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.7}Integratie van het Content Management Systeem}{37}{subsection.3.1.7}% 
+\contentsline {subsection}{\numberline {3.1.7}Integratie van het Content Management Systeem}{36}{subsection.3.1.7}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Wordpress}{37}{section*.23}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Joomla}{38}{section*.24}% 
+\contentsline {subsubsection}{Joomla}{37}{section*.24}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Drupal}{38}{section*.25}% 
+\contentsline {subsubsection}{Drupal}{37}{section*.25}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.8}SEO van het Content Management Systeem}{38}{subsection.3.1.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Wordpress}{39}{section*.26}% 
+\contentsline {subsubsection}{Wordpress}{38}{section*.26}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Joomla}{39}{section*.27}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Drupal}{40}{section*.28}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Vergelijking WooCommerce, VirtueMart en Drupal Commerce }{41}{section.3.2}% 
+\contentsline {section}{\numberline {3.2}Vergelijking WooCommerce, VirtueMart en Drupal Commerce }{40}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Intu\IeC {\"\i }tiviteit van de e-commerce oplossing}{41}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.1}Intu\IeC {\"\i }tiviteit van de e-commerce oplossing}{40}{subsection.3.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{WooCommerce}{41}{section*.29}% 
+\contentsline {subsubsection}{WooCommerce}{40}{section*.29}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{VirtueMart}{41}{section*.30}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Drupal Commerce}{42}{section*.31}% 
+\contentsline {subsubsection}{Drupal Commerce}{41}{section*.31}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.2}Support van de e-commerce oplossing}{42}{subsection.3.2.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{WooCommerce}{42}{section*.32}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{VirtueMart}{43}{section*.33}% 
+\contentsline {subsubsection}{VirtueMart}{42}{section*.33}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Drupal Commerce}{43}{section*.34}% 
+\contentsline {subsubsection}{Drupal Commerce}{42}{section*.34}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}All-in-one functionaliteit van de e-commerce oplossing}{44}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.3}All-in-one functionaliteit van de e-commerce oplossing}{43}{subsection.3.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{WooCommerce}{44}{section*.35}% 
+\contentsline {subsubsection}{WooCommerce}{43}{section*.35}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{VirtueMart}{44}{section*.36}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Drupal Commerce}{45}{section*.37}% 
+\contentsline {subsubsection}{Drupal Commerce}{44}{section*.37}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.4}Governance van de e-commerce oplossing}{45}{subsection.3.2.4}% 
 \defcounter {refsection}{0}\relax 
@@ -129,13 +129,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{VirtueMart}{45}{section*.39}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Drupal Commerce}{46}{section*.40}% 
+\contentsline {subsubsection}{Drupal Commerce}{45}{section*.40}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.5}SEO van de e-commerce oplossing}{46}{subsection.3.2.5}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{WooCommerce}{46}{section*.41}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{VirtueMart}{47}{section*.42}% 
+\contentsline {subsubsection}{VirtueMart}{46}{section*.42}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Drupal Commerce}{47}{section*.43}% 
 \defcounter {refsection}{0}\relax 
@@ -153,5 +153,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {A.5}Verwachte conclusies}{54}{section.A.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografie}{55}{appendix*.44}% 
+\contentsline {chapter}{\numberline {B}Wijzigingen en toevoegingen t.o.v. eerste zittijd}{55}{appendix.B}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografie}{57}{appendix*.44}% 
 \contentsfinish 
